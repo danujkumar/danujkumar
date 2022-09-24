@@ -5,7 +5,7 @@
 - 📫 How to reach me ... -->
 
 
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Harsh</a> 🙋🏽‍♂️</h1> 
+<!-- <h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Harsh</a> 🙋🏽‍♂️</h1> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshdew02) 
 
@@ -29,7 +29,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  |--|--|--|--|
  
  **Tools**
- 
+  -->
  <img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
  |--|--|--|--|
  
