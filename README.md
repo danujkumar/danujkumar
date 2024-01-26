@@ -17,7 +17,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a React Native Application Developer and Machine Learning Enthusiast with a huge love for React.js, React Native, Ptython, REST API and Data Visualization. </p>
+<p align="left">I am a React Native Application Developer and Machine Learning Enthusiast with a huge love for React.js, React Native, Python, REST API, and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🏆 Smart India Hackathon 2023 finalist.
