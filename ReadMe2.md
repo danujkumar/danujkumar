@@ -83,7 +83,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/harshdew02">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdew02&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdew02&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -91,7 +91,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/harshdew02">
-          <img align="center" src="https://streak-stats.demolab.com?user=harshdew02&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=harshdew02&theme=highcontrast" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -101,7 +101,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/harshdew02/NITRR-Class-Locator">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=harshdew02&repo=NITRR-Class-Locator&theme=nightowl&show_owner=true" alt="NITRR-Class-Locator" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=harshdew02&repo=NITRR-Class-Locator&theme=highcontrast&show_owner=true" alt="NITRR-Class-Locator" />
         </a>
       </p>
     </td>
@@ -109,7 +109,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/harshdew02">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=harshdew02&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=harshdew02&limit=3&theme=highcontrast&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -120,9 +120,10 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdew02&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdew02&bg_color=000000&color=00ffe1&line=fbff00&point=ff0000&area=true&hide_border=true" border-radius="15">
+<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdew02&bg_color=000000&color=00ffe1&line=fbff00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
+ -->
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
@@ -130,7 +131,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=000000&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
