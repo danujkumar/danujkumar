@@ -17,7 +17,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a React Native Application Developer and Machine Learning Enthusiast with a huge love for React.js, React Native, Ptython, Node.js, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -30,17 +30,40 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=harshdew02&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=cpp,py,matlab,java,js,html,css,md,mysql,latex&perline=10"  />
 </p>
+
+<h2 align="center">Tools & Technology</h2> 
+<table width="100%" align="center">
+<tr>
+<td>
+<p align="center">
+<img width="200px"  src="https://skillicons.dev/icons?i=react,nextjs,materialui,threejs,firebase,androidstudio&perline=3" />
+</p>
+</td>
+<!--   dlf -->
+<td>
+<p align="center">
+<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,postman,codepen,tensorflow&perline=3"  />
+</p>
+</td>
+<!--   dfd -->
+<td>
+<p align="center">
+<img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,svg,tailwind,bootstrap&perline=3"  />
+</p>
+</td>
+</tr>
+</table>
 <br />
 
 
