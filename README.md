@@ -39,7 +39,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=cpp,csharp,matlab,java,js,html,css,md,mysql,latex&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=cpp,cs,java,js,html,css,md,mysql,latex&perline=10"  />
 </p>
 
 <h2 align="center">Tools & Technology</h2> 
@@ -47,13 +47,13 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=react,nextjs,materialui,threejs,firebase,androidstudio&perline=3" />
+<img width="200px"  src="https://skillicons.dev/icons?i=react,reactjs,nodejs,dotnet,mongodb,androidstudio&perline=3" />
 </p>
 </td>
 <!--   dlf -->
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,postman,codepen&perline=3"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,codepen&perline=3"  />
 </p>
 </td>
 <!--   dfd -->
