@@ -47,7 +47,7 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet,androidstudio&perline=3" />
+<img width="200px" src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet,androidstudio&perline=3" />
 </p>
 </td>
 <!--   dlf -->
@@ -147,7 +147,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/anuj_singh828/" target="_blank">
+<!-- <a href="" target="_blank"> -->
+(https://www.instagram.com/anuj_singh828/){:target="_blank" rel="noopener noreferrer"}
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
